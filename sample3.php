@@ -1,3 +1,3 @@
 <?php
-echo "sample3";
+echo "sample3.php";
 ?>
